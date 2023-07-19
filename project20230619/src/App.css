@@ -1,0 +1,54 @@
+.App{
+  background-color: black;
+  width: 174vh;
+  height: 95vh;
+  padding: 30px;
+}
+
+.test{
+  background-color:white;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  margin: 0px 10px 10px 0px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  color: black;
+}
+
+.test1{
+  background-color:rgb(55, 54, 54);
+  border: none;
+  margin: 0px 10px 10px 0px;
+  padding: 10px 10px 10px 10px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  color: white;
+}
+
+.test2{
+  background-color:rgba(229, 226, 226, 0.999);
+  width: 150px;
+  border: none;
+  margin: 0px 10px 10px 0px;
+  padding: 10px 10px 10px 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 20px;
+  color: black;
+}
+
+.test3{
+  background-color:red;
+  width: 150px;
+  border: none;
+  margin: 0px 10px 10px 0px;
+  padding: 10px 10px 10px 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 20px;
+  color: white;
+}
